@@ -24,4 +24,6 @@ You can find and get touch with me on these accounts!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/parasdattera/) Add your LinkedIn link here
 
+Also you can email me : parasdattera555@gmail.com
+
 ### Feel free to contact me... and keep coding!
