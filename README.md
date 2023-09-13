@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @parasdattera
-- 👀 I’m interested in coding   
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on some python projects
-- 📫 how to reach me --https://www.linkedin.com/in/paras-dattera-631b91192/
+# Hello, I'm Paras Dattera! 👋
 
-<!---
-parasdattera/parasdattera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Web Developer specializing in front-end and back-end development. Experienced with all stages of the development cycle for dynamic web projects and strong background in project management and customer relations.
+
+## 🛠️ My Skills
+
+### Web Development:
+
+- Django
+- Python
+- Angular
+- HTML,CSS,JS
+- 
+### Database:
+
+- PostgreSQL
+- MySQL
+
+## 📫 How to reach me: 
+
+You can find and get touch with me on these accounts!
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/) Add your Github link here
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/) Add your LinkedIn link here
+
+### Feel free to contact me... and keep coding!
